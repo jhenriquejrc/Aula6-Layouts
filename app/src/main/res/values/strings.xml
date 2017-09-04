@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula6</string>
+    <string name="activity_placas_title">Placas</string>
+    <string name="activity_calc_title">Calculadora</string>
+    <string name="activity_cardapio_title">Cardápio</string>
+
+</resources>
